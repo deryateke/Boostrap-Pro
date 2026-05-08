@@ -10,5 +10,5 @@
 - HTML5
 - CSS3
 - Bootstrap 5
- <img src="Bs Project.gif>
+<img src="Bs Project.gif" />
  
